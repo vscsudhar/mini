@@ -13,8 +13,7 @@
   "dependencies": {
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
-    "mongoose": "^9.3.2",git commit -m "fix: add start script"
-
+    "mongoose": "^9.3.2",
     "nodemon": "^3.1.14",
     "slugify": "^1.6.8"
   }
